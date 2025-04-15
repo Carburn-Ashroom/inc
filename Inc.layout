@@ -1,0 +1,72 @@
+[
+    {
+        "caretX": 5,
+        "caretY": 16,
+        "filename": "E:/RedPanda/Console/(Control)/Debug/Inc/clocking.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 1,
+        "top": 0
+    },
+    {
+        "caretX": 16,
+        "caretY": 33,
+        "filename": "E:/RedPanda/Console/(Control)/Debug/Inc/data.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 4,
+        "top": 270
+    },
+    {
+        "caretX": 7,
+        "caretY": 7,
+        "filename": "E:/RedPanda/Console/(Control)/Debug/Inc/config.h",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 5,
+        "top": 0
+    },
+    {
+        "caretX": 50,
+        "caretY": 15,
+        "filename": "E:/RedPanda/Console/(Control)/Debug/Inc/main.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 6,
+        "top": 0
+    },
+    {
+        "caretX": 2,
+        "caretY": 56,
+        "filename": "E:/RedPanda/Console/(Control)/Debug/Inc/main.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 90
+    },
+    {
+        "caretX": 1,
+        "caretY": 23,
+        "filename": "E:/RedPanda/Console/(Control)/Debug/Inc/clocking.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 2,
+        "top": 0
+    },
+    {
+        "caretX": 7,
+        "caretY": 25,
+        "filename": "E:/RedPanda/Console/(Control)/Debug/Inc/data.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 3,
+        "top": 0
+    }
+]

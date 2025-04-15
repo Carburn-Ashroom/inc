@@ -1,37 +1,17 @@
 # （C++）前置自增与后置谁更快？
 
 #### 介绍
-测试结果：优先选用前置++
+测试不同情况下++i和i++的差异
 
-#### 软件架构
-软件架构说明
+#### 测试视频
+[测试视频](https://www.bilibili.com/video/BV1oKBKY2EoK/?share_source=copy_web&vd_source=f356fef64ca0bb2e553b6ff070b44940)
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 测试结果
+![alt 《The C++ Programming Language》片段](Prefer prefix ++.png)
+![alt 中文版](Use pre-inc.png)
 
 #### 参与贡献
-
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
